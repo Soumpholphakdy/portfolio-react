@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.d79a30fe.css",
-    "main.js": "/portfolio-react/static/js/main.13ed35ee.js",
+    "main.js": "/portfolio-react/static/js/main.d2b43136.js",
+    "static/media/ufit.png": "/portfolio-react/static/media/ufit.c2060503b7db8cad1652.png",
     "static/media/Screenshot 2023-05-09 160527.png": "/portfolio-react/static/media/Screenshot 2023-05-09 160527.73696d9ef3a49aad30e8.png",
     "static/media/IMG_0253.jpg": "/portfolio-react/static/media/IMG_0253.17d6ea97a23edad9631f.jpg",
     "static/media/totoro-tree.jpg": "/portfolio-react/static/media/totoro-tree.e2cc73bcf1ee4060f020.jpg",
     "static/media/Screenshot 2023-03-20 181344.png": "/portfolio-react/static/media/Screenshot 2023-03-20 181344.0a80ff30650b17d10e62.png",
     "index.html": "/portfolio-react/index.html",
     "main.d79a30fe.css.map": "/portfolio-react/static/css/main.d79a30fe.css.map",
-    "main.13ed35ee.js.map": "/portfolio-react/static/js/main.13ed35ee.js.map"
+    "main.d2b43136.js.map": "/portfolio-react/static/js/main.d2b43136.js.map"
   },
   "entrypoints": [
     "static/css/main.d79a30fe.css",
-    "static/js/main.13ed35ee.js"
+    "static/js/main.d2b43136.js"
   ]
 }
