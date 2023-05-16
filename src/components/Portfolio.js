@@ -25,6 +25,12 @@ const Portfolio = () => {
       image: Images.wDash,
       link: 'https://soumpholphakdy.github.io/Weather-Dashboard/',
     },
+    {
+      title: 'U-Fit',
+      description: 'U-Fit is an fitness tracker web application that helps the user to track their workouts and provides guides on exercises.',
+      image: Images.uFit,
+      link: 'https://pure-savannah-65137.herokuapp.com/',
+    },
 
   ];
 
